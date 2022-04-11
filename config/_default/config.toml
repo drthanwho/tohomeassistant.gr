@@ -1,7 +1,7 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Arcana for Hugo"
-theme = "hugo-arcana"
+theme = "arcana"
 copyright = "© Untitled. All rights reserved"
 
 [taxonomies]
