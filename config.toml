@@ -1,5 +1,5 @@
-baseurl = "https://tohomeassistant-gr.pages.dev/"
-languageCode = "en-us"
+baseurl = "/"
+languageCode = "el-gr"
 theme = "terminal"
 paginate = 5
 
@@ -45,9 +45,9 @@ paginate = 5
 
 [languages]
   [languages.en]
-    languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    languageName = "Greek"
+    title = "To σωστό το Smart Home"
+    subtitle = "powered by Home Assistant"
     owner = ""
     keywords = ""
     copyright = ""
