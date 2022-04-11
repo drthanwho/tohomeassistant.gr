@@ -1,9 +1,9 @@
 banner:
   enable: true
-  image: "images/pagonaki.png"
-  contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
+  image: "images/home-assistant.jpg"
+  contents: "**To σωστό το Smart Home:** _powered by [Home Assistant](https://home-assistant.io/)_"
   button:
-    contents: "Learn More"
+    contents: "Μάθετε περισσότερα"
     url: "#"
 items:
   - type: highlights
