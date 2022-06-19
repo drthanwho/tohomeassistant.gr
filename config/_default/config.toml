@@ -1,8 +1,8 @@
-baseURL = "https://example.org/"
-languageCode = "en-us"
+baseURL = "https://tohomeassistant.gr/"
+languageCode = "gr-el"
 title = "Arcana for Hugo"
 theme = "arcana"
-copyright = "© Untitled. All rights reserved"
+copyright = "© ToHomeAssistant. All rights reserved"
 
 [taxonomies]
     tag = "tags"
@@ -12,31 +12,22 @@ copyright = "© Untitled. All rights reserved"
     show_post_dates = false
 
     [[params.social]]
-        title = "Twitter"
-        icon = "fa-twitter"
-        url = "#"
-    [[params.social]]
         title = "Facebook"
         icon = "fa-facebook-f"
-        url = "#"
+        url = "https://www.facebook.com/groups/472308593754940"
     [[params.social]]
         title = "GitHub"
         icon = "fa-github"
-        url = "#"
-    [[params.social]]
-        title = "LinkedIn"
-        icon = "fa-linkedin-in"
-        url = "#"
+        url = "https://github.com/drthanwho/tohomeassistant.gr"
     [[params.social]]
         title = "Creative Commons"
         icon = "fa-creative-commons"
         url = "https://creativecommons.org/"
 
-
     [params.footer]
 
         [[params.footer.links]]
-            header = "Links to Stuff"
+            header = "Χρήσιμοι Σύνδεσμοι"
         [[params.footer.links.links]]
             title = "Mattis et quis rutrum"
             url = "#"
@@ -60,7 +51,7 @@ copyright = "© Untitled. All rights reserved"
             url = "#"
 
         [[params.footer.links]]
-            header = "More Links to Stuff"
+            header = "Διαβάσετε Επίσης"
         [[params.footer.links.links]]
             title = "Duis neque nisi dapibus"
             url = "#"
@@ -85,5 +76,5 @@ copyright = "© Untitled. All rights reserved"
 
         [params.footer.contact_form]
             enabled = true
-            header = "Get In Touch"
+            header = "Επικοινωνήστε μαζί μας!"
             action = ""
