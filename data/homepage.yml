@@ -9,7 +9,7 @@ items:
   - type: highlights
     items_per_row: 3
     items:
-    - title: [Τρόποι εγκατάστσης](https://home-assistant.io/)
+    - title: Τρόποι εγκατάστσης
       icon: fa-paper-plane
       content: >
         Οι πιο βασικοί τρόποι εγκατάστης του Home Assistant ανάλογα
