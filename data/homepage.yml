@@ -1,29 +1,28 @@
 banner:
   enable: true
   image: "images/home-assistant.jpg"
-  contents: "**To σωστό το Smart Home:** _powered by [Home Assistant](https://home-assistant.io/)_"
+  contents: "**To σωστό το Smart Home:** _powered by Home Assistant_"
   button:
     contents: "Μάθετε περισσότερα"
-    url: "#"
+    url: "https://home-assistant.io/"
 items:
   - type: highlights
     items_per_row: 3
     items:
-    - title: This Is Important
+    - title: [Τρόποι εγκατάστσης](https://home-assistant.io/)
       icon: fa-paper-plane
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
+        Οι πιο βασικοί τρόποι εγκατάστης του Home Assistant ανάλογα
+        με το hardware που διαθέτε.
+    - title: Διατηρώντας το Home Assistant ασφαλές
       icon: fa-pencil-alt
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
+        Πως να έχετε πρόσβαση στο Home Assistnt απομακρισμένα χωρίς
+        συμβιβασμούς στην ασφάλεια. 
+    - title: Λάθη που να αποφύγετε
       icon: fa-wrench
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        Το πιο σύνηθη λάθη που πρέπει να αποφύγετε.
   - type: heading
     heading: A gigantic heading you can use for whatever
     contents: With a much smaller subtitle hanging out just below it
