@@ -1,20 +1,20 @@
 [[main]]
-    name = "Dropdown"
+    name = "Home Assistant"
     weight = 30
 [[main]]
-    parent = "Dropdown"
+    parent = "Home Assistant"
     name = "Lorem dolor"
     weight = 31
 [[main]]
-    parent = "Dropdown"
+    parent = "Home Assistant"
     name = "Magna Phasellus"
     weight = 32
 [[main]]
-    parent = "Dropdown"
+    parent = "Home Assistant"
     name = "Etiam sed tempus"
     weight = 33
 [[main]]
-    parent = "Dropdown"
+    parent = "Home Assistant"
     name = "Submenu"
     weight = 34
 [[main]]
