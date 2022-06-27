@@ -4,23 +4,23 @@
 [[main]]
     parent = "Home Assistant"
     name = "Τα Βασικά"
-    url = "/home-assistant/τα-βασικα/"
+    url = "/posts/home-assistant/τα-βασικα/"
     weight = 30
 [[main]]
     parent = "Home Assistant"
     name = "Μέθοδοι Εγκατάστασης"
-    url = "/home-assistant/μέθοδοι-εγκατάστασης/"
+    url = "/posts/home-assistant/μέθοδοι-εγκατάστασης/"
     weight = 40
 [[main]]
     parent = "Home Assistant"
     name = "Αυτοματισμοί"
-    url = "/home-assistant/αυτοματισμοί/"
+    url = "/posts/home-assistant/αυτοματισμοί/"
     weight = 50
 [[main]]
     name = "Integrations"
     weight = 70
-    url = "/integrations/"
+    url = "/posts/integrations/"
 [[main]]
     name = "DIY"
     weight = 80
-    url = "/diy/"
+    url = "/posts/diy/"

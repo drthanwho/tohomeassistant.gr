@@ -5,7 +5,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "command": "hugo server --disableFastRender",
+      "command": "hugo server",
       "name": "Hugo",
       "request": "launch",
       "type": "node-terminal"
