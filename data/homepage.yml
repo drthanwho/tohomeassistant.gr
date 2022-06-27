@@ -1,37 +1,37 @@
 banner:
   enable: true
-  image: "images/home-assistant.jpg"
+  image: "images/HA-3-devices.jpg"
   contents: "**To σωστό το Smart Home:** _powered by Home Assistant_"
   button:
     contents: "Μάθετε περισσότερα"
     url: "https://home-assistant.io/"
 items:
-  - type: highlights
-    items_per_row: 3
-    items:
-    - title: Τρόποι εγκατάστσης
-      icon: fa-paper-plane
-      content: >
-        Οι πιο βασικοί τρόποι εγκατάστης του Home Assistant ανάλογα
-        με το hardware που διαθέτε.
-    - title: Διατηρώντας το Home Assistant ασφαλές
-      icon: fa-pencil-alt
-      content: >
-        Πως να έχετε πρόσβαση στο Home Assistnt απομακρισμένα χωρίς
-        συμβιβασμούς στην ασφάλεια. 
-    - title: Λάθη που να αποφύγετε
-      icon: fa-wrench
-      content: >
-        Το πιο σύνηθη λάθη που πρέπει να αποφύγετε.
-  - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
+  #   - type: highlights
+  #     items_per_row: 3
+  #     items:
+  #     - title: Τρόποι εγκατάστσης
+  #       icon: fa-paper-plane
+  #       content: >
+  #         Οι πιο βασικοί τρόποι εγκατάστης του Home Assistant ανάλογα
+  #         με το hardware που διαθέτε.
+  #     - title: Διατηρώντας το Home Assistant ασφαλές
+  #       icon: fa-pencil-alt
+  #       content: >
+  #         Πως να έχετε πρόσβαση στο Home Assistnt απομακρισμένα χωρίς
+  #         συμβιβασμούς στην ασφάλεια.
+  #     - title: Λάθη που να αποφύγετε
+  #       icon: fa-wrench
+  #       content: >
+  #         Το πιο σύνηθη λάθη που πρέπει να αποφύγετε.
+  #   - type: heading
+  #     heading: A gigantic heading you can use for whatever
+  #     contents: With a much smaller subtitle hanging out just below it
   - type: posts
-    #heading: Recent Posts
+    heading: Recent Posts
     content_type: posts
     max: 4
   - type: cta
-    contents: Are you ready to continue your quest?
+    contents: Είστε έτοιμοι να ξεκινήσετε με το Home Assistant;
     button:
-      contents: Insert Coin
-      url: "#"
+      contents: Πάρτε τον έλεγχο!
+      url: "https://www.home-assistant.io/installation/"
