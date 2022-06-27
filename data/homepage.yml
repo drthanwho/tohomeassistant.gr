@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/homeassistant.jpg"
+  image: images/home-assistant.png
   contents: "**To σωστό το Smart Home:** _powered by Home Assistant_"
   button:
     contents: "Μάθετε περισσότερα"
@@ -9,7 +9,7 @@ items:
   - type: posts
     heading: Πρόσφατα Άρθρα
     content_type: posts
-    max: 1
+    max: 2
   - type: cta
     contents: Είστε έτοιμοι να ξεκινήσετε με το Home Assistant;
     button:
