@@ -1,6 +1,6 @@
 baseURL = "https://tohomeassistant.gr/"
 languageCode = "gr-el"
-title = "Arcana for Hugo"
+title = "Το σωστό το Smart Home"
 theme = "arcana"
 copyright = "© ToHomeAssistant. All rights reserved"
 [taxonomies]
