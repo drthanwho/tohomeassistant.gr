@@ -36,4 +36,4 @@ jobs:
         env:
           CI: true
       - name: Run textlint
-        run: npm run textlint
+        run: npm run textlint:all
