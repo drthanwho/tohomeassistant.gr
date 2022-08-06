@@ -1,7 +1,5 @@
 ---
-
-title: Posts
+title: Τα Βασικά
 menu: main
 weight: 20
-
 ---
