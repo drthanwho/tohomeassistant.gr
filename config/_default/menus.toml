@@ -1,45 +1,26 @@
 [[main]]
     name = "Home Assistant"
+    weight = 20
+[[main]]
+    parent = "Home Assistant"
+    name = "Τα Βασικά"
+    url = "/posts/home-assistant/τα-βασικα/"
     weight = 30
 [[main]]
     parent = "Home Assistant"
-    name = "Lorem dolor"
-    weight = 31
-[[main]]
-    parent = "Home Assistant"
-    name = "Magna Phasellus"
-    weight = 32
-[[main]]
-    parent = "Home Assistant"
-    name = "Etiam sed tempus"
-    weight = 33
-[[main]]
-    parent = "Home Assistant"
-    name = "Submenu"
-    weight = 34
-[[main]]
-    parent = "Submenu"
-    name = "Lorem dolor"
-    identifier = "sub-lorem"
-    weight = 35
-[[main]]
-    parent = "Submenu"
-    name = "Phasellus magna"
-    weight = 36
-[[main]]
-    parent = "Submenu"
-    name = "Magna phasellus"
-    weight = 37
-[[main]]
-    parent = "Submenu"
-    name = "Etiam nisl"
-    weight = 38
-[[main]]
-    parent = "Submenu"
-    name = "Veroeros feugiat"
-    identifier = "sub-veroeros"
-    weight = 39
-[[main]]
-    parent = "Dropdown"
-    name = "Veroeros feugiat"
+    name = "Μέθοδοι Εγκατάστασης"
+    url = "/posts/home-assistant/μέθοδοι-εγκατάστασης/"
     weight = 40
+[[main]]
+    parent = "Home Assistant"
+    name = "Αυτοματισμοί"
+    url = "/posts/home-assistant/αυτοματισμοί/"
+    weight = 50
+[[main]]
+    name = "Integrations"
+    weight = 70
+    url = "/posts/integrations/"
+[[main]]
+    name = "DIY"
+    weight = 80
+    url = "/posts/diy/"
