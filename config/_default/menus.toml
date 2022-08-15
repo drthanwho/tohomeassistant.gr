@@ -4,7 +4,7 @@
 [[main]]
     parent = "Home Assistant"
     name = "Τα Βασικά"
-    url = "/posts/home-assistant/τα-βασικα/"
+    url = "/posts/home-assistant/τα-βασικά/"
     weight = 30
 [[main]]
     parent = "Home Assistant"
@@ -18,9 +18,9 @@
     weight = 50
 [[main]]
     name = "Integrations"
-    weight = 70
+    weight = 60
     url = "/posts/integrations/"
 [[main]]
     name = "DIY"
-    weight = 80
+    weight = 70
     url = "/posts/diy/"

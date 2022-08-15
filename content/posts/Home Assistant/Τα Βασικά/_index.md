@@ -1,5 +1,5 @@
 ---
 title: Τα Βασικά
 menu: main
-weight: 20
+weight: 30
 ---
