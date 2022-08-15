@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/home-assistant.jpg"
+  image: "images/under_construction.png"
   contents: "**To σωστό το Smart Home:** _powered by Home Assistant_"
   button:
     contents: "Μάθετε περισσότερα"
